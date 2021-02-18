@@ -2,7 +2,7 @@
 
 # How to get data into your Binder
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/Soley02/1-Lineare%20Regression%20Mit%20Python.ipynb/main)
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/Soley02/Lineare_Regression_1.ipynb/main)
 
 This example demonstrates a few ways to get data into your binder.
 
